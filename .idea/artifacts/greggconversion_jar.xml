@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="greggconversion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/greggconversion_jar</output-path>
+    <root id="archive" name="greggconversion.jar">
+      <element id="module-output" name="greggconversion" />
+      <element id="library" level="module" name="commons-logging" module-name="greggconversion" />
+    </root>
+  </artifact>
+</component>
